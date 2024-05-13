@@ -20,7 +20,7 @@ const Page = () => {
     <>
       <button
         onClick={getImages}
-        className="px-5 py-2 bg-green-400 text-white rounded-md mb-4"
+        className="px-5 py-2 bg-green-400 text-white rounded-md mb-4 ml-4 "
       >
         Get Images
       </button>
